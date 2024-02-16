@@ -6,8 +6,8 @@ authors = ["Naga Samineni <naga@passbird.co>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-Flask = "^2.0.2"
-waitress = "^2.0.0"
+Flask = "^2.2.5"
+waitress = "^2.1.2"
 pynamodb = "^5.1.0"
 
 [tool.poetry.dev-dependencies]
